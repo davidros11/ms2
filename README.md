@@ -15,7 +15,7 @@ Then run with
 ./a.out [port number]
 ```
 
-Default port is 5400.
+Default port is 5600.
 send matrices with the appropriate format. Each line of the matrix should have the numbers seperated by commas with /n in the end, like so:
 
 [number],[number],...,[number]\n
