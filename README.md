@@ -23,7 +23,9 @@ send matrices with the appropriate format. Each line of the matrix should have t
 after that, show the beginning and end points respectively, and then put 'end' in the end:
 
 [x-coordinate],[y-coordinate]\n
+
 [x-coordinate],[y-coordinate]\n
+
 end
 
 any spaces will be ignored. After sending the matrices, you'll get a result for the shortest path from the beginning point to the end
