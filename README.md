@@ -16,7 +16,7 @@ Then run with
 ```
 
 Default port is 5400.
-send matrices with the appropriate format. Each line of the matrix should be:
+send matrices with the appropriate format. Each line of the matrix should have the numbers seperated by commas with /n in the end, like so:
 
 [number],[number],...,[number]\n
 
