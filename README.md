@@ -16,5 +16,14 @@ Then run with
 ```
 
 Default port is 5400.
-send matrices with the appropriate format and get a result for the shortest path.
+send matrices with the appropriate format. Each line of the matrix should be:
+[number],[number],...,[number]\n
+after that, show the beginning and end points respectively, and then put 'end' in the end:
+[x-coordinate],[y-coordinate]\n
+[x-coordinate],[y-coordinate]\n
+end
+any spaces will be ignored.
+After that, you'll get a result for the shortest path from the beginning point to the end
+point of the matrix
+
 
